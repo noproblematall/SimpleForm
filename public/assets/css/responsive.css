@@ -1,0 +1,271 @@
+@media only screen and (min-width: 1600px) and (max-width: 1920px) {
+    
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+   
+}
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+   
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .boxForm{
+        margin-top:-10px;
+    }
+    .divUrgence {
+         padding-left: 0px; 
+    }
+    .clientImgSingle {
+        padding: 0px 0px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    .divSelect{
+        margin-bottom:20px
+    }
+    
+    .boxForm .box{
+        padding-top:0px !important;
+    }
+    
+    .box p {
+        text-align: center;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .divForm .btn {
+        margin-top: 25px;
+    }
+   
+    .headerTitle {
+        padding: 15px 0px;
+        overflow: hidden;
+    }
+    
+    .divDpt {
+        line-height: 16px;
+    }
+    
+    .divUrgence .bold{
+        line-height:16px;
+    }
+    
+    input[type="radio"], input[type="checkbox"] {
+        margin: 10px 0 0 !important;
+        margin-top: 1px \9;
+        line-height: normal;
+    }
+    
+    #progressbar {
+        margin-bottom: 20px !important;
+    }
+    
+    label {
+        margin-bottom: 2px;
+    }
+    
+    .col-md-10 {
+        padding-left: 0px;
+        padding-right: àpx;
+    }
+    
+    .form-group {
+        margin-bottom: 27px;
+        height: 73px;
+    }
+    
+    .err {
+        margin-top: 2px;
+    }
+    
+    .box {
+        padding: 5px 20px;
+    }
+    
+    .form-group.prenom{
+            height: 60px;
+    }
+    
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .divurgc{
+        display:none;
+    }
+    
+    .box {
+        padding: 5px 20px;
+    }
+    
+    .err {
+        margin-top: 2px;
+    }
+    
+    .form-group {
+        margin-bottom: 27px;
+        height: 73px;
+    }
+    
+    .form-group.prenom{
+            height: 60px;
+    }
+    
+    .boxForm{
+        margin-top:-10px;
+    }
+    
+    .col-md-10 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    label {
+        margin-bottom: 2px;
+    }
+    
+    input[type="radio"], input[type="checkbox"] {
+        margin: 10px 0 0 !important;
+        margin-top: 1px \9;
+        line-height: normal;
+    }
+    
+    #progressbar {
+        margin-bottom: 20px !important;
+    }
+    
+    .divUrgence .bold{
+        line-height:16px;
+    }
+    
+    .divDpt {
+        line-height: 16px;
+    }
+    
+    .divForm .btn {
+        margin-top: 10px;
+    }
+    
+    .headerTitle {
+        padding: 10px 0px;
+        overflow: hidden;
+    }
+    
+    .boxForm .box{
+        padding-top:0px !important;
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    .divSelect{
+        margin-bottom:20px
+    }
+    
+    .headerTitle h2 {
+
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 20px;
+        padding-right: 0px;
+        margin-top: 0;
+    }
+
+
+
+
+    .box h2 {
+        text-align: center;
+        color: #0fb356;
+        font-weight: bold;
+        font-size: 20px;
+        line-height:21px
+    }
+    .box p {
+        text-align: center;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 15px;
+        margin-bottom: 25px;
+    }
+    #employer-post-new-job .res-steps-container .res-steps .res-progress-title {
+        text-align: center;
+        font-size: 10px;
+        padding-top: 10px;
+        display: block;
+        font-weight: 600;
+    }
+    
+    #employer-post-new-job .res-step-form {
+        position: absolute;
+         padding: 0px; 
+    }
+    .single-form {
+         padding: 0px; 
+    }
+    .mobile-margin
+    {
+        margin-left: -10px;
+    }
+    .second-btn
+    {
+        margin-top: -20px !important;
+
+    }
+    .second-btn button
+    {
+        font-size: 15px !important;
+
+    }
+    .second-form
+    {
+        margin-left: -5px;
+    }
+
+    .divUrgence {
+         padding-left: 0px; 
+            margin-bottom: 15px;
+    }
+    .clientImgSingle {
+        padding: 0px 0px;
+    }
+
+    .clientOne img {
+        width: 100%;
+    } 
+
+    .clientTwo img {
+        width: 100%;
+    } 
+
+    .clientThree img {
+        width: 100%;
+    } 
+
+    .clientFour img {
+        width: 100%;
+    } 
+
+}
